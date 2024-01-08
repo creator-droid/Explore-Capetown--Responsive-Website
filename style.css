@@ -19,6 +19,7 @@ header {
   background-repeat: no-repeat;
 }
 .header-content {
+  margin-top: 200px;
   margin-bottom: 150px;
   color: whitesmoke;
   text-align: center;
