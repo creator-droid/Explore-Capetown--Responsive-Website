@@ -4,18 +4,6 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-nav.navbar {
-  background-color: transparent;
-}
-
-.navbar-toggler-icon {
-}
-
-.navbar-nav {
-}
-
-.navbar-nav .nav-item .nav-link {
-}
 a {
   text-decoration: none;
 }
@@ -76,4 +64,24 @@ h3 {
   background-color: white;
   padding: 16px 32px;
   border-radius: 4px;
+}
+ul {
+  list-style: none;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 20px;
+  color: whitesmoke;
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+}
+.nav-links li {
+  margin: 0 30px;
 }
