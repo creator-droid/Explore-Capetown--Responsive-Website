@@ -73,3 +73,13 @@ h3 {
 .navbar-nav .nav-item .nav-link.active {
   color: white !important;
 }
+
+section {
+  width: 80%;
+  margin: 80px auto;
+}
+title {
+  text-align: center;
+  font-size: 4vmin;
+  color: #707070;
+}
