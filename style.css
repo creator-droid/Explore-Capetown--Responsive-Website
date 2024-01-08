@@ -31,6 +31,7 @@ header {
 .header-content h3 {
   font-size: 96px;
   line-height: 1;
+  font-weight: bold;
 }
 .line {
   width: 150px;
