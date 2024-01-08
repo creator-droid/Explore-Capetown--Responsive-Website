@@ -26,6 +26,10 @@ header {
 .header-content h2 {
   font-size: 4vmin;
 }
+.header-content h3 {
+  font-size: 96px;
+  line-height: 1.5;
+}
 .line {
   width: 150px;
   height: 4px;
