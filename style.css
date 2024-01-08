@@ -78,8 +78,9 @@ section {
   width: 80%;
   margin: 80px auto;
 }
-title {
+.title {
   text-align: center;
   font-size: 4vmin;
   color: #707070;
+  margin: 0 auto;
 }
