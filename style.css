@@ -10,13 +10,11 @@ header {
   width: 100vw;
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("./img/Cape\ Town.jpg");
+    url("./img/cape-town.webp");
   background-position: center;
   background-size: cover;
-  display: flex;
+  display: block;
   background-repeat: no-repeat;
-  align-items: flex-end;
-  justify-content: center;
 }
 .header-content {
   margin-bottom: 150px;
