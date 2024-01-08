@@ -35,7 +35,7 @@ header {
 .line {
   width: 150px;
   height: 4px;
-  background: #585858;
+  background: #c0c0c0;
   margin: 10px auto;
   border-radius: 5px;
 }
