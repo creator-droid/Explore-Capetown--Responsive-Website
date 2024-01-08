@@ -65,3 +65,7 @@ h3 {
   padding: 16px 32px;
   border-radius: 4px;
 }
+.navbar-nav .nav-item .nav-link {
+  color: whitesmoke !important;
+  margin-right: 20px;
+}
