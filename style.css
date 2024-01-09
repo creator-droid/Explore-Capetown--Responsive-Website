@@ -200,7 +200,8 @@ p {
   text-align: center;
   color: #7c7c7c;
   font-weight: bold;
+  font-size: 15px;
 }
 .tours .title .line {
-  margin-bottom: 20px;
+  margin-bottom: 32px;
 }
