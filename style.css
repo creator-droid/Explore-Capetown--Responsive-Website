@@ -175,7 +175,7 @@ p {
   width: 420px;
   margin-bottom: 35px;
   margin-right: auto;
-  margin-left: -1.5px;
+  margin-left: -1px;
 }
 .container .row {
   display: flex;
