@@ -78,7 +78,7 @@ h3 {
 .navbar-nav .nav-item .nav-link.active {
   color: white !important;
 }
-.navbar.scroll-navbar {
+.navbar.navbar-light.fixed-top.bg-transparent.scroll-navbar {
   background-color: #333;
 }
 
