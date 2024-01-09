@@ -194,11 +194,13 @@ p {
 }
 .tours .beachs {
   margin-top: 20px;
-  margin-bottom: 20px;
 }
 .tours .row .col-3 p {
   margin-top: 10px;
   text-align: center;
   color: #7c7c7c;
   font-weight: bold;
+}
+.tours .title .line {
+  margin-bottom: 20px;
 }
