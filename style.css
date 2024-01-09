@@ -110,8 +110,8 @@ section {
   height: 100%;
   display: block;
   margin-bottom: 10px;
-  max-width: 300px;
-  max-height: 200px;
+  max-width: 400px;
+  max-height: 300px;
   object-fit: cover;
 }
 h4 {
