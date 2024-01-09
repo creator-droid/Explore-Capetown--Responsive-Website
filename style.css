@@ -177,3 +177,18 @@ p {
   margin-right: auto;
   margin-left: -1.5px;
 }
+.container .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.container .col-3 {
+  flex-basis: calc(25% - 10px);
+  margin-bottom: 20px;
+}
+
+.container .col-3 img {
+  width: 100%;
+  height: auto;
+}
