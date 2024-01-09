@@ -172,10 +172,10 @@ p {
   margin-left: -25px;
 }
 .explore-content .line {
-  width: 420px;
+  width: 380px;
   margin-bottom: 35px;
   margin-right: auto;
-  margin-left: -1px;
+  margin-left: auto;
 }
 .container .row {
   display: flex;
