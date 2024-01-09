@@ -133,9 +133,8 @@ p {
   text-decoration: none;
   color: #272044;
   background-color: white;
-  padding: 13px 28px;
+  padding: 16px 32px;
   border-radius: 4px;
-  margin-left: 10%;
 }
 .explore {
   width: 100%;
@@ -170,6 +169,6 @@ p {
   margin-top: 40px;
 }
 .explore-content .line {
-  width: 350px;
+  width: 420px;
   margin-bottom: 35px;
 }
