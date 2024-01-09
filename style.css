@@ -169,6 +169,7 @@ p {
 }
 .explore-content ctn {
   margin-top: 40px;
+  margin-left: -20px;
 }
 .explore-content .line {
   width: 420px;
