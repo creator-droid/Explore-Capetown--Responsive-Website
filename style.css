@@ -157,6 +157,8 @@ p {
 .explore-content h4 {
   font-size: 7vmin;
   margin: 50px;
+  color: whitesmoke;
+  font-weight: bold;
 }
 .explore-content p {
   color: whitesmoke;
