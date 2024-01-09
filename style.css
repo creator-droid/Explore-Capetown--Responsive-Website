@@ -184,11 +184,14 @@ p {
 }
 
 .container .col-3 {
-  flex-basis: calc(25% - 10px);
+  flex-basis: calc(33.33% - 20px);
   margin-bottom: 20px;
 }
 
 .container .col-3 img {
   width: 100%;
   height: auto;
+}
+.beachs {
+  margin-top: 20px;
 }
