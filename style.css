@@ -135,6 +135,7 @@ p {
   background-color: white;
   padding: 13px 28px;
   border-radius: 4px;
+  margin-left: 10%;
 }
 .explore {
   width: 100%;
@@ -169,6 +170,6 @@ p {
   margin-top: 40px;
 }
 .explore-content .line {
-  width: 250px;
+  width: 350px;
   margin-bottom: 35px;
 }
