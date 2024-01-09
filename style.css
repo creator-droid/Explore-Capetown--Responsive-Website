@@ -162,6 +162,7 @@ p {
 }
 .explore-content p {
   color: whitesmoke;
+  font-size: 8px;
 }
 .explore-content ctn {
   margin-top: 40px;
