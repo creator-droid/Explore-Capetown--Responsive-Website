@@ -175,7 +175,8 @@ p {
 .explore-content .line {
   width: 340px;
   margin-bottom: 35px;
-  margin-left: -6px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .container .row {
   display: flex;
