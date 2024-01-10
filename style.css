@@ -235,7 +235,7 @@ p {
   }
   .explore-content .ctn {
     margin-left: 0;
-    margin-right: 10px;
+    margin-right: 14px;
   }
 
   .events .row {
@@ -245,10 +245,14 @@ p {
   .events .row .col {
     width: 100%;
     margin-bottom: 20px;
+    text-align: center;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+  .events .row .col {
+    width: 48%;
+  }
   .explore-content h4 {
     font-size: 6vmin;
     margin: 30px;
