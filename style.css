@@ -233,6 +233,19 @@ p {
   .explore-content p {
     font-size: 14px;
   }
+  .explore-content .ctn {
+    margin-left: 0;
+    margin-right: 10px;
+  }
+
+  .events .row {
+    flex-direction: column;
+  }
+
+  .events .row .col {
+    width: 100%;
+    margin-bottom: 20px;
+  }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
