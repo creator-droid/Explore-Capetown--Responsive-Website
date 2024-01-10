@@ -8,7 +8,6 @@ Welcome to Explore Cape Town, a website that takes you on a captivating journey 
 
 ## Features
 
-- **Interactive Map:** Explore Cape Town's attractions through an interactive map, making it easy for users to plan their visit.
   
 - **Events Section:** Stay updated with the latest events happening in Cape Town, ensuring you don't miss out on any exciting experiences.
 
