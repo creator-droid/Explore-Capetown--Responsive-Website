@@ -203,7 +203,7 @@ p {
   font-size: 15px;
 }
 .tours .title .line {
-  margin-bottom: 32px;
+  margin-bottom: 40px;
 }
 .footer {
   width: 100%;
@@ -218,5 +218,5 @@ p {
   color: whitesmoke;
   margin: 20px auto;
   padding: 20px auto;
-  font-size: 8px;
+  font-size: 12px;
 }
