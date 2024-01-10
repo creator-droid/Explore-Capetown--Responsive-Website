@@ -217,6 +217,16 @@ p {
   padding: 20px auto;
   font-size: 12px;
 }
+img {
+  transition: transform 0.3s ease;
+}
+img:hover {
+  transform: scale(1.1);
+}
+.ctn:hover {
+  background: #484848;
+  color: whitesmoke;
+}
 
 @media only screen and (max-width: 767px) {
   .explore-content {
