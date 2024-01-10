@@ -225,6 +225,9 @@ p {
   padding: 20px auto;
   font-size: 12px;
 }
+.footer .logo {
+  max-width: 90px;
+}
 img {
   transition: transform 0.3s ease;
 }
