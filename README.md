@@ -1,6 +1,6 @@
 # Explore Cape Town Website
 
-![Explore Cape Town](./path/to/your/image.png)
+https://explore-capetown.netlify.app/
 
 ## Introduction
 
