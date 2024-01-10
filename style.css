@@ -248,6 +248,51 @@ p {
     text-align: center;
   }
 }
+@media only screen and (max-width: 479px) {
+  .explore-content {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .explore-content h4 {
+    font-size: 5vmin;
+    margin: 30px;
+  }
+
+  .explore-content p {
+    font-size: 12px;
+  }
+
+  .explore-content .ctn {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .explore-content {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .explore-content h4 {
+    font-size: 6vmin;
+    margin: 30px;
+  }
+
+  .explore-content p {
+    font-size: 14px;
+  }
+
+  .explore-content .ctn {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .events .row .col {
