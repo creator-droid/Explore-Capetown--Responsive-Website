@@ -157,23 +157,29 @@ p {
   display: flex;
   align-items: center;
   flex-direction: column;
+  text-align: center;
+  margin: auto;
 }
+
 .explore-content h4 {
-  font-size: 7vmin;
-  margin: 50px;
+  font-size: 4vmin;
+  margin: 30px 0 15px;
   color: whitesmoke;
   font-weight: bold;
-  margin-bottom: 0;
-  margin-bottom: 35px;
 }
+
 .explore-content p {
   color: whitesmoke;
   font-size: 14px;
+  margin-bottom: 20px;
 }
+
 .explore-content .ctn {
-  margin-top: 40px;
-  margin-left: -52px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 .container .row {
   display: flex;
   flex-wrap: wrap;
