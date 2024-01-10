@@ -217,3 +217,94 @@ p {
   padding: 20px auto;
   font-size: 12px;
 }
+
+@media only screen and (max-width: 767px) {
+  .header-content {
+    margin-top: 100px;
+    margin-bottom: 50px;
+  }
+
+  .header-content h3 {
+    font-size: 48px;
+  }
+
+  .header-content h1 {
+    font-size: 24px;
+  }
+
+  .explore-content {
+    width: 80%;
+    padding: 30px;
+  }
+
+  .explore-content h4 {
+    font-size: 5vmin;
+    margin: 30px;
+  }
+
+  .footer {
+    padding: 10px;
+  }
+
+  .container .col-3 {
+    flex-basis: 100%;
+    margin-bottom: 20px;
+  }
+
+  .events .row {
+    flex-direction: column;
+  }
+
+  .events .row .col {
+    margin-bottom: 50px;
+  }
+
+  .events .ctn {
+    margin-left: 0;
+  }
+
+  .tours .title {
+    text-align: center;
+  }
+
+  .tours .row .col-3 {
+    flex-basis: 100%;
+  }
+
+  .navbar-nav .nav-item .nav-link {
+    margin-right: 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .header-content h3 {
+    font-size: 72px;
+  }
+
+  .header-content h1 {
+    font-size: 32px;
+  }
+
+  .explore-content h4 {
+    font-size: 6vmin;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .header-content {
+    margin-top: 250px;
+    margin-bottom: 200px;
+  }
+
+  .header-content h3 {
+    font-size: 96px;
+  }
+
+  .header-content h1 {
+    font-size: 40px;
+  }
+
+  .explore-content h4 {
+    font-size: 7vmin;
+  }
+}
