@@ -164,12 +164,13 @@ p {
   color: whitesmoke;
   font-weight: bold;
   margin-bottom: 0;
+  margin-bottom: 35px;
 }
 .explore-content p {
   color: whitesmoke;
   font-size: 14px;
 }
-.explore-content ctn {
+.explore-content .ctn {
   margin-top: 40px;
   margin-left: -42px;
 }
