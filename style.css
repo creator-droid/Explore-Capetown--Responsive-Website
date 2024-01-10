@@ -172,6 +172,8 @@ p {
   color: whitesmoke;
   font-size: 11px;
   margin-bottom: 20px;
+  line-height: 1.5;
+  max-width: 500px;
 }
 
 .explore-content .ctn {
